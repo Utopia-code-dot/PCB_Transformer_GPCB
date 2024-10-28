@@ -15,6 +15,7 @@ of National Laboratory of Communication Anti-Interference at the University of E
 - train.py：Training
 - configurator.py：Configurator of train.py
 - sample.py：Generate code for a case using a trained model
+- run.py：main function of the project
 
 ## Environmental demand
 - Below pytorch version 2.0, the rest of the library environment can be installed according to the code requirements
