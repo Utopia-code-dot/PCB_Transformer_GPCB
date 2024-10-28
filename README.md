@@ -6,8 +6,8 @@ of National Laboratory of Communication Anti-Interference at the University of E
 ## Description of each document 
 - preprocess_data：Store data set
 - encode_table：Store the length of the cap code table, flow code table, and line sequence code table
-·flow_encode_table.json：flow code table
-·cap_encode_table.json: cap code table
+·flow_encode_table.json：flow code table  
+·cap_encode_table.json: cap code table  
 ·start_end_size.pkl：The number of starting point codes is stored in dictionary format
 - envs：Store the packages needed for visual flow presentation
 - out_train：Store the saved model parameters and the loss and accuracy curves of training set and test set during model training
