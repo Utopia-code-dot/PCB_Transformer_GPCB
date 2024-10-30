@@ -10,8 +10,8 @@ of National Laboratory of Communication Anti-Interference at the University of E
 ·cap_encode_table.json: cap code table  
 ·start_end_size.pkl：The number of starting point codes is stored in dictionary format
 - envs：Store the packages needed for visual flow presentation
-- out_train：Store the saved model parameters and the loss and accuracy curves of training set and test set during model training
-  There is a trained model in "master" branch, which enables us test routing result by it.Pull "master" branch to load training checkpoint  
+- out_train：Store the saved model parameters and the loss and accuracy curves of training set and test set during model training.
+  There is a trained model in "master" branch, which enables us test routing result by it.Pull "master" branch to load training checkpoint.  
 - model.py：Model architecture
 - train.py：Training
 - configurator.py：Configurator of train.py
