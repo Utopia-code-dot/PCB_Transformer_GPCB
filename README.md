@@ -1,5 +1,6 @@
 # PCB_Transformer
 ## Introduction
+Please cited as J. Chen et al., "GPCB Routing: Generative Pre-Trained Transformers Based Printed Circuit Board Routing Method," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2024.3486241.
 ![Novamind](assets/novamind.jpg) 
 A Generative Pre-Trained model specifically for PCB Routing Domain, developed by the Firemind team led by Professor Jienan Chen 
 of National Laboratory of Communication Anti-Interference at the University of Electronic Science and Technology of China.
